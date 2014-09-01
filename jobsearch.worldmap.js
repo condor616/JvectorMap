@@ -77,7 +77,10 @@
       		regionStyle: {
             	
 				initial: {
-                  fill: '#f6eee0' // this adds color too all regions
+                  fill: '#f6eee0', // this adds color too all regions,
+				  stroke: "#9c8673",
+				  "stroke-opacity": 1,
+				  "stroke-width": 1 
              	},
 				hover: {
     				"fill-opacity": 0.8,
