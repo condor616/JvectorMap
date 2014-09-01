@@ -1,3 +1,4 @@
+/*
 var excludeCountries = [
   "LY",
   "SS",
@@ -6,7 +7,7 @@ var excludeCountries = [
   "ML",
   "GL"
 ];
-	
+*/
 var myCustomColors = {
 	/*
 	'LY': '#FFFFFF',
